@@ -14,7 +14,7 @@ Creating a Database or Schema followed by creating tables in the database and su
 - Asking the correct questions from the correct tables
 
 ## 🏥 Dataset: 
-- service_weekly
+- services_weekly
 ## columns 
 week,month	service,available_beds,patients_request, patients_admitted,	patients_refused,	patient_satisfaction,	staff_morale,	event
 
@@ -25,7 +25,7 @@ List all unique hospital services available in the hospital.
 ## ✅ SQL Solution
   ``` MYSQL
   SELECT DISTINCT service
-  FROM service_weekly;
+  FROM services_weekly;
 ```
 ## Result:
 - emergency
@@ -43,7 +43,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/jayarani-arunachalam-2
 
 [Query and Output Screenshots](https://github.com/JayaraniArunachalam/Day_1_SQL_Creating-DB-Tables-and-fetch-UNIQUE-values/blob/main/Day%201%20Unique%20Jaya.png)
 
-Data Used [service_weekly](https://github.com/JayaraniArunachalam/Day_1_SQL_Creating-DB-Tables-and-fetch-UNIQUE-values/blob/main/services_weekly.csv)
+Data Used [services_weekly](https://github.com/JayaraniArunachalam/Day_1_SQL_Creating-DB-Tables-and-fetch-UNIQUE-values/blob/main/services_weekly.csv)
 
 
 
