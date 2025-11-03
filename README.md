@@ -41,5 +41,7 @@ Thank you [Indian Data Club](https://www.linkedin.com/company/indian-data-club/p
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/jayarani-arunachalam-23jun1990/)
 
+[Query and Output Screenshots]9https://github.com/JayaraniArunachalam/Day_1_SQL_Creating-DB-Tables-and-fetch-UNIQUE-values/blob/main/Day%201%20Unique%20Jaya.png)
+
 
 
