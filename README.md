@@ -37,3 +37,4 @@ List all unique hospital services available in the hospital.
 - **DISTINCT** helps fetch unique values from a column.
 - Avoid SELECT * in production queries for better performance.
 
+Thank you [Indian Data Club](https://www.linkedin.com/company/indian-data-club/posts/?feedView=all) for starting this challenge and 
