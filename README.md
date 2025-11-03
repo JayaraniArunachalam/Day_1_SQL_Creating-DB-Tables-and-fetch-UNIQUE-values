@@ -43,5 +43,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/jayarani-arunachalam-2
 
 [Query and Output Screenshots](https://github.com/JayaraniArunachalam/Day_1_SQL_Creating-DB-Tables-and-fetch-UNIQUE-values/blob/main/Day%201%20Unique%20Jaya.png)
 
+Data Used [service_weekly](https://github.com/JayaraniArunachalam/Day_1_SQL_Creating-DB-Tables-and-fetch-UNIQUE-values/blob/main/services_weekly.csv)
+
 
 
